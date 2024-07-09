@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "moneyfarm-95358",
+  "private_key_id": "d74b4fd642ada31614f67fcccad1fd6d50747d9d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCasx5GBKXSe1j0\n6UnI5Ryjx2F9d/yRYgbq44hrVeWfwT0JaaZtnehgeGIKjMFIjnYkoGkTjN5cknD2\nQNrVl1BhNSy9PE3rlVtmB/J5sUY/S5JcTVcWlngQIOJPrhdPgkQYxIV1zJYTXPcd\nj5QQifc2v+r3igrXIX+NbWSNiP6EdTT6SGl4BPJ9J6nEblHYi/XfAPLzycCEVLc/\nq5MopdTm2tgJiPjZ8faLhvZQVh6T1quIKR02ualS8Wxe8Cf0LvK2fwkeiZ7tMPxo\nqp4oOGHUX38GGSZ4xW/zMOyFLr9YKHxnM0QzhaTfrJzh/lhCeH99un3zIHYjBYsz\nBuCc5QV5AgMBAAECggEABL21kU7GKDe4h7T4mmwPHyPWpIo/VtNKw/saLLPyuB0r\nejTfMV/UBdTaqFkc+VTIYSH7Zmp8TBj+1kUxj7c18uy2xMvq1Wv745odv8YDkaAG\nycZjA2G0J0ZiuS9sLncfECVBs9UDym8gcar7TjB0P5zNHi4AXAx+RL7UBJRsvHFw\n6/jXXRNJv9CUKxJsl1rQcMUzVKBjiIl0sw2WkrJJU8Gdxs7EfWFjGXBBhTA6cPR1\nHxb3cpHJX88Mcin1mMtNJBWjyksM2voOAMBGUcN1qpvNuhHKIgnSmLZ6l+ogusfN\nnfJB2Ms6TLfwN5FeFme6xR9oUG/zopiz3pC4l1F6AQKBgQDOXgoVhYg1NJuQW0CB\nD9U9w93y3lO+D+VQVrXr0/bjK/JO5X2nRX7XkO4hTk8ivycdrWepptn4eGyrcBxL\nDUobUGPWMM6f7U+svdCZjGSvKVcpTsTIzaKunMcZEhdE/C63tpn/9TMKwncpF+0c\n7g2phrs2TpG2ltpdCYIT2Pn3+QKBgQC/5+uQkHPW9AAm90h/TXk/IyYL5VFH/ie9\nhEtqwHef1SwFS3ynqLszhZvVJHkbKYWsoTJwPlWY0Mcgf+Mf6aWxr4zYDzVmnqQR\n8EfxGksy8jjKOqxZnJx18QK8petb6I7YCB1nSbh+NSP/rIzIZC6Gk7+PCgtUWVVf\nlPReouXZgQKBgGo+J9rkoDckGmK7V/4Z9KKT0BRVOa/D5z7xJT+AJL7XxSuxInuX\nX7IDP1WOR1eQKccxmwjQia9N8ERit248LUbaoEuJXRcgycAZCOfES6GSGvl9P/pR\nQ8u5kxbpJWmymyqhq68GwXxsmYRieQRH2mjIoGFZGdNy3oC/gGRPdIGhAoGBAIYe\n5ZDclEk3sN+K1d063TFWNGH9/AevxkB6tGbAaxqG1sRAlLdsgqEokNevLQDhzS3w\nXxr5RcOOroy1NJx6JDaB9ZKPVogI+awb3XvRH5tUlIIp7YiXnvYC4iHMaCiM6UBs\ns3gbmtiB9U3cX2wyMB4YJromj/J8mOE7bmqxuKiBAoGAJBCKKz0LJ6TC2dm3iKr0\nWUfv7RH1fM1Blc4Unwl4wocYesOHx/ywGqIoJujhawtSH3zKGiEJD+BFeTQaD6a+\nUrQoZD9JhNliCNxivggdJsFBIF8c/TRMsSlX/viHutaDJQLaPTw8BuegtlEt+LUp\ndMpWnBbhyMdFCHjYmIWC/yI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7oyfp@moneyfarm-95358.iam.gserviceaccount.com",
+  "client_id": "117147855696202427763",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7oyfp%40moneyfarm-95358.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
